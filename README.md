@@ -6,3 +6,4 @@
 > 3달간 매주 10명 이상의 스터디원들이 돌아가며 발표, 블로그 포스팅을 하면서 스터디를 진행
 ## 관련 내용 블로그 포스팅
 + [[로지스틱 회귀] 시그모이드 함수와 MSE, Cross entropy](https://inhovation97.tistory.com/29)
++ [[소프트맥스 회귀] softmax와 cross entropy 이해하기](https://inhovation97.tistory.com/30)
