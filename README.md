@@ -8,3 +8,5 @@
 ## 관련 내용 블로그 포스팅
 + [[로지스틱 회귀] 시그모이드 함수와 MSE, Cross entropy](https://inhovation97.tistory.com/29)
 + [[소프트맥스 회귀] softmax와 cross entropy 이해하기](https://inhovation97.tistory.com/30)
++ [Transfer learning & fine tuning의 다양하고 섬세한 기법](https://inhovation97.tistory.com/31)
++ [Learning rate & batch size best 조합 찾기 (feat.논문리뷰와 실험결과)](https://inhovation97.tistory.com/32)
