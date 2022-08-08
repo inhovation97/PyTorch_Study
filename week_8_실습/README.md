@@ -4,4 +4,4 @@
 > cifar10 데이터를 acc 90% 이상을 노려봄, 위 논문을 통해 얻은 하이퍼 파라미터로 resnet 50기준 84% 정도의 성능이 나왔음   
 >    
 > 더 좋은 성능을 위해 많은 고민을 했는데, lr scheduler를 뺴고나니 98% 까지 높은 성능을 얻어냄.   
-### **Adaptive optimizer인 Adam에 lr scheduler는 오히려 학습에 있어서 나쁜 영향을 미쳤던 것임**
+### **Adaptive optimizer인 Adam에 lr scheduler의 파라미터도 고민해야 함**
